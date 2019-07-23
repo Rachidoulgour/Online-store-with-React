@@ -1,0 +1,37 @@
+
+
+.register form{
+    display: flex;
+    flex-direction: column;
+    margin: 3rem;
+    /*width: 30vw;*/
+    padding: 1.5rem;
+   justify-self: center;
+}
+.register form input{
+    all: unset;
+    border: solid 1px rgb(253, 194, 83);
+    padding: 1rem;
+    margin: .5rem 1.5rem;
+    border-radius: 1rem;
+    justify-self: center;
+    width: 20rem;
+}
+.register form input:hover{
+    border: solid 1px orange; 
+}
+.register-btn{
+    all: unset;
+    background-color: rgb(253, 194, 83);
+    color: #ffffff;
+    width: 10rem;
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    border-radius: 1rem;
+    /*align-self: center;*/
+    margin: 1.5rem;
+}
+.register-btn:hover{
+    border: solid 1px orange; 
+    background-color: orange;
+}

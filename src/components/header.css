@@ -1,0 +1,34 @@
+ul{
+    all: unset;
+    display: flex;
+    flex-direction: column;
+    height: 3rem;
+    margin-bottom: .5rem;
+}
+@media (min-width: 800px){
+    ul{
+        all: unset;
+        display: flex;
+        flex-direction: row;
+        height: 3rem;
+        margin-bottom: 2rem;
+    }
+
+}
+ul li{
+    all: unset;
+    text-decoration: none;
+    margin: 2rem;
+    
+}
+li .navlink{
+    all: unset;
+    text-decoration: none;
+    background-color: rgb(253, 194, 83);
+    color: white;
+    padding: .8rem 2rem;
+    border-radius: 5rem;
+}
+li .navlink:hover{
+    background-color: orange;
+}

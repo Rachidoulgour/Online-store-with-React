@@ -1,0 +1,23 @@
+.image{
+    max-width: 20rem;
+    border-radius: 1.5rem;
+}
+.image:hover{
+    max-width: 23rem;
+    transition: ease .5s;
+}
+.price{
+    margin: .8rem auto;
+    font-size: 1.5rem;
+}
+.acheter-btn{
+    all: unset;
+    color: #ffffff;
+    background-color: orange;
+    padding:.5rem 1.5rem;
+    border-radius: 20rem;
+}
+.acheter-btn:hover{
+    background-color: orangered;
+    transition: ease .5s;
+}

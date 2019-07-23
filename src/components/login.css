@@ -1,0 +1,18 @@
+.register{
+    justify-items: center center;
+    
+}
+.entrer-btn{
+    all: unset;
+    border: solid .1rem rgb(247, 168, 21);
+    color: rgb(247, 168, 21);
+    width: 10rem;
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    border-radius: 1rem;
+    margin: 1.5rem;
+}
+.entrer-btn:hover{
+    border: solid .1rem orangered;
+    color: orangered;
+}

@@ -1,0 +1,45 @@
+{
+    "products": [  
+      {  
+        "id": 1,  
+        "name": "Sac à main", 
+        "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",  
+        "keywords": [  
+          "sac", "sac à main", "femme" 
+        ],  
+        "image": "6887-1.jpg",  
+        "price": 19.99  
+      },
+      {  
+        "id": 2,  
+        "name": "Sac à main2", 
+        "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",  
+        "keywords": [  
+          "sac", "sac à main", "femme" 
+        ],  
+        "image": "6887-4.jpg",  
+        "price": 19.99  
+      },
+      {  
+        "id": 3,  
+        "name": "Sac à main3", 
+        "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",  
+        "keywords": [  
+          "sac", "sac à main", "femme" 
+        ],  
+        "image": "6888-PINK.jpg",  
+        "price": 19.99  
+      },
+      {  
+        "id": 4,  
+        "name": "Sac à main4", 
+        "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",  
+        "keywords": [  
+          "sac", "sac à main", "femme" 
+        ],  
+        "image": "6888-RED.jpg",  
+        "price": 19.99  
+      }  
+    ]
+  
+  }
