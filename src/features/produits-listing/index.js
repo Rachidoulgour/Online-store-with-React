@@ -10,7 +10,7 @@ function ProductListing(props){
         props.products.map(product =>
         <ProductListItem product={product} 
             AjouterAuPanier={props.AjouterAuPanier}
-            panierItem={props.panier.filter(panierItem => panierItem.id === Product.id)[0]}
+            panierItem={props.panier.filter(panierItem => panierItem.id === product.id)[0]}
         />)
     }
 
